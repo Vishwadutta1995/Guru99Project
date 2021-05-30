@@ -1,0 +1,9 @@
+com\goIbiboTest\testCases\TC_01_LoginTest.class
+com\goIbiboTest\utilities\XLUtils.class
+com\goIbiboTest\testCases\TC_03_AddNewCustTest.class
+com\goIbiboTest\testCases\BaseClass.class
+com\goIbiboTest\utilities\ReadConfig.class
+com\goIbiboTest\testCases\TC_02_LoginDDT.class
+com\goIbiboTest\pageObjects\LoginPage.class
+com\goIbiboTest\utilities\Reporting.class
+com\goIbiboTest\pageObjects\AddCustomerPage.class

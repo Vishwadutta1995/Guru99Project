@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="goibiboTest" duration-ms="44615" started-at="2021-05-24T09:08:19 IST" finished-at="2021-05-24T09:09:03 IST">
+    <groups>
+    </groups>
+    <test name="BankingApp Test" duration-ms="44615" started-at="2021-05-24T09:08:19 IST" finished-at="2021-05-24T09:09:03 IST">
+      <class name="com.goIbiboTest.testCases.TC_03_AddNewCustTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.goIbiboTest.testCases.TC_03_AddNewCustTest@1ed4004b]" name="setUp" is-config="true" duration-ms="6952" started-at="2021-05-24T09:08:42 IST" finished-at="2021-05-24T09:08:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.goIbiboTest.testCases.TC_03_AddNewCustTest@1ed4004b]" name="addNewCustomer" duration-ms="13131" started-at="2021-05-24T09:08:49 IST" finished-at="2021-05-24T09:09:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.goIbiboTest.testCases.TC_03_AddNewCustTest@1ed4004b]" name="tearDown" is-config="true" duration-ms="1586" started-at="2021-05-24T09:09:02 IST" finished-at="2021-05-24T09:09:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.goIbiboTest.testCases.TC_03_AddNewCustTest -->
+      <class name="com.goIbiboTest.testCases.TC_01_LoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.goIbiboTest.testCases.TC_01_LoginTest@4566e5bd]" name="setUp" is-config="true" duration-ms="17529" started-at="2021-05-24T09:08:19 IST" finished-at="2021-05-24T09:08:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.goIbiboTest.testCases.TC_01_LoginTest@4566e5bd]" name="loginTest" duration-ms="3590" started-at="2021-05-24T09:08:37 IST" finished-at="2021-05-24T09:08:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.goIbiboTest.testCases.TC_01_LoginTest@4566e5bd]" name="tearDown" is-config="true" duration-ms="1101" started-at="2021-05-24T09:08:41 IST" finished-at="2021-05-24T09:08:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.goIbiboTest.testCases.TC_01_LoginTest -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- goibiboTest -->
+</testng-results>
